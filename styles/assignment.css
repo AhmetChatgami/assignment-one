@@ -9,7 +9,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 40px 200px
+    margin: 40px 200px 40px 200px;
 }
 .nav-title{
     font-weight: 800;
@@ -24,4 +24,20 @@ nav{
     border-radius: 5px;
     border: none;
     font-size: 20px;
+}
+/* banner styles */
+.banner-content{
+    text-align: center;
+    margin;
+}
+.banner-title{
+    font-size: 80px ;
+    margin-top: 50px 50px 50px 50px;
+    padding: 50px;
+}
+/* header */
+.header{
+    background-image: url(../images/Hero-bg.png);
+    margin-top: 50px;
+    
 }
