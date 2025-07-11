@@ -51,7 +51,7 @@ main{
     display: flex;
     justify-content: space-between;
     max-width: ;
-    margin: 100px 50px;
+    margin: 100px 0 100px 0;
     justify-items: center;
     align-items: center;
 }
@@ -70,10 +70,12 @@ main{
 }
 
 section{
-    padding: 100px;
+    padding: 80px 50px;
     justify-content: center;
     align-items: center;
     border-radius: 50px;
+    border: none;
+    background-position: 141 1258 ;
 }
 .users-title{
     text-align: center;
@@ -81,6 +83,8 @@ section{
 }
 .section-bg{
     background-color:#e4e4fe;
+    border: none;
+    margin: auto;
 }
 .section-items{
     display: flex;
@@ -93,5 +97,5 @@ section{
     color: #4E47FF;
 }
 .item-description{
-    font-weight: bold;
+    font-weight:600;
 }
